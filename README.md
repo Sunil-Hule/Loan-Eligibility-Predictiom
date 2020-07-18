@@ -5,9 +5,9 @@ In this project I have tried to predict Loan Eligibility for Dream Housing Finan
 
 # Data
 
-I have use the data from a compition in website analyticsvidhya.com
+I have use the data from a competition in website analyticsvidhya.com
 
-Compitition link : https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
+Competition link : https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
 # Approach
 
